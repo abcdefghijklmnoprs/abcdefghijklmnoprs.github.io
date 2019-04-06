@@ -478,9 +478,9 @@
 		{
 			"attribute"	"melee range multiplier"
 			"icon"		"mvm/upgradeicons/upgrade_resistance_fire"
-			"increment"	"0.3"			// 15% reduction
-			"cap"		"2.2"			// 75% reduction max (.41 because of float rounding when comparing)
-			"cost"		"200"
+			"increment"	"0.5"			// 15% reduction
+			"cap"		"2.5"			// 75% reduction max (.41 because of float rounding when comparing)
+			"cost"		"250"
 		}
 	}
 	
@@ -503,7 +503,7 @@
 			"icon"		"mvm/upgradeicons/upgrade_resistance_bullet"
 			"increment"	"-0.2"
 			"cap"		"0.4"
-			"cost"		"300"
+			"cost"		"250"
 		}
 		"3"
 		{
@@ -543,7 +543,7 @@
 			"icon"		"achievements/tf_scout_long_distance_runner"
 			"increment"	"1"
 			"cap"		"1"
-			"cost"		"550"
+			"cost"		"500"
 		}
 		"10"
 		{
